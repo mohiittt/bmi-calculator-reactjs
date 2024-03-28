@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed
+This project is deployed <a href="https://bmicalculator-reactjs-mohit.vercel.app/">Here.</a>
+
 ## Available Scripts
 
 In the project directory, you can run:
